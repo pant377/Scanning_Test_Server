@@ -1,0 +1,10 @@
+    The AJAX Spider add-on integrates in ZAP a crawler of AJAX rich sites called Crawljax. You can use it to identify the pages of the targeted site. You can combine it with the (normal) spider for better results.
+    (The AJAX Spider is meant to crawl.....AJAX. If you (you're app/site) don't use AJAX'ish functionality it isn't going to find much.)
+    also (AJAX Spider relies on an external browser to crawl the targeted site. You can specify which one you want to use. For more details on supported browsers refer to “Selenium” add-on help pages.)
+    Spider allows you to crawl web applications written in AJAX in far more depth than the native Spider. Use the AJAX Spider if you may have web applications written in AJAX.
+
+
+Το πρόσθετο AJAX Spider ενσωματώνεται στο ZAP ένα πρόγραμμα ανίχνευσης εμπλουτισμένων ιστότοπων AJAX που ονομάζεται Crawljax. Μπορείτε να το χρησιμοποιήσετε για να προσδιορίσετε τις σελίδες του στοχευμένου ιστότοπου. Μπορείτε να το συνδυάσετε με την (κανονική) αράχνη για καλύτερα αποτελέσματα.
+    (Το AJAX Spider προορίζεται να ανιχνεύσει ..... AJAX. Εάν (είστε εφαρμογή / ιστότοπος) δεν χρησιμοποιείτε τη λειτουργικότητα του AJAX, δεν πρόκειται να βρείτε πολλά.)
+    επίσης (το AJAX Spider βασίζεται σε ένα εξωτερικό πρόγραμμα περιήγησης για ανίχνευση του στοχευμένου ιστότοπου. Μπορείτε να καθορίσετε ποιο θέλετε να χρησιμοποιήσετε. Για περισσότερες λεπτομέρειες σχετικά με τα υποστηριζόμενα προγράμματα περιήγησης, ανατρέξτε στις σελίδες βοήθειας πρόσθετων "Selenium".)
+    Το Spider σάς επιτρέπει να ανιχνεύετε εφαρμογές ιστού γραμμένες σε AJAX σε πολύ μεγαλύτερο βάθος από την εγγενή Spider. Χρησιμοποιήστε το AJAX Spider εάν ενδέχεται να έχετε γράψει εφαρμογές Web στο AJAX.
