@@ -1,0 +1,3 @@
+Lets’s consider an integer in a program, which stores the result of a user’s choice between 3 questions. When the user picks one, the choice will be 0, 1 or 2. Which makes three practical cases. But what if we transmit 3, or 255 ? We can, because integers are stored a static size variable. If the default switch case hasn’t been implemented securely, the program may crash and lead to “classical” security issues: (un)exploitable buffer overflows, DoS, …
+
+Fuzzing is the art of automatic bug finding, and it’s role is to find software implementation faults, and identify them if possible.

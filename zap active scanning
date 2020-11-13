@@ -1,0 +1,6 @@
+    AP has several ways to perform an Active Scan. The most straightforward of these is to use the Quick Start welcome screen that is displayed by default when ZAP is launched.
+    To begin, enter the URL you want to scan in the URL to attack field, and then press the Attack button. This will launch a two step process:
+
+    Firstly, a spider will be used to crawl the website: ZAP will use the supplied URL as a starting point to explore the website to determine all of the hyperlinks within it (links that direct outside the domain will be ignored). The Spider tab at the bottom of the ZAP window will display the links as they are found. While this is happening, ZAP will simultaneously passively scan the links.
+    Secondly, the Active Scan will launch: once the crawl is complete the active scan will start. ZAP will launch a variety of attack scenarios at the URLs listed in the Spider tab. The attack progress will be displayed in the Active Scan tab.
+    Once the active scan has finished, the results will be displayed in the Alerts tab. This will contain all of the security issues found during both the Spider and Active scan. They will be flagged according to their risk - red for High Priority, and green and yellow for Medium to Low Priority, respectively.
